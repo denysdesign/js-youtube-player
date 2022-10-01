@@ -1,5 +1,5 @@
 {
-  "name": "js-youtube-player",
+  "name": "@denysdesign/js-youtube-player",
   "version": "1.0.0",
   "description": "JS module for responsive YouTube player",
   "main": "youtube-player.js",
