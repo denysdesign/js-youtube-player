@@ -7,7 +7,6 @@ Add to package.json dependencies:
 ``` json
   "dependencies": {
     "@denysdesign/js-youtube-player": "denysdesign/js-youtube-player",
-    ...
   }
 ```
 
@@ -18,7 +17,7 @@ Add to index.js:
     const ytContent = '.js-content';
     if (document.querySelector(ytContent)) {
         import(
-            /* webpackChunkName: "module-youtube-player" */
+            /* webpackChunkName: "module-js-youtube-player" */
             /* webpackPreload: true */
             /* webpackPrefetch: true */
             '@denysdesign/js-youtube-player').then(module => {
