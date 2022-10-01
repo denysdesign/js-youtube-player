@@ -1,0 +1,21 @@
+{
+  "name": "js-youtube-player",
+  "version": "1.0.0",
+  "description": "JS module for responsive YouTube player",
+  "main": "youtube-player.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denysdesign/js-youtube-player.git"
+  },
+  "keywords": [
+    "youtube",
+    "YouTube",
+    "player"
+  ],
+  "author": "Denys Nosov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denysdesign/js-youtube-player/issues"
+  },
+  "homepage": "https://github.com/denysdesign/js-youtube-player#readme"
+}
